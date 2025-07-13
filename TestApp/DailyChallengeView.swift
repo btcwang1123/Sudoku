@@ -3,7 +3,7 @@ import SwiftUI
 struct DailyChallengeView: View {
     var body: some View {
         VStack {
-            Text("每日挑戰")
+            Text("每日挑戰test")
                 .font(.largeTitle)
                 .fontWeight(.bold)
                 .padding()
