@@ -66,7 +66,7 @@ struct ContentView: View {
             // 2. 每日挑戰頁面
             DailyChallengeView()
                 .tabItem {
-                    Label("每日挑戰", systemImage: "calendar")
+                    Label("每日挑戰1", systemImage: "calendar")
                 }
                 .tag(TabSelection.dailyChallenge)
 
